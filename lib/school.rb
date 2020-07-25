@@ -7,8 +7,6 @@ class School
   end 
 end 
 
-School.new("Bayside High School")
-
-school.add_student("Zach Morris, 9")
-
+def add_student(student, grade)
+  
 

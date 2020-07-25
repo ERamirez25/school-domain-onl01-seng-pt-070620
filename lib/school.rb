@@ -1,4 +1,4 @@
 class School
-  def initialize
+  School.new("Bayside High School")
   
 

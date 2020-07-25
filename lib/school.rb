@@ -7,4 +7,6 @@ class School
   end 
 end 
 
+School.new("Bayside High School")
+
 

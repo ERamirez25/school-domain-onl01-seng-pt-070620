@@ -31,7 +31,7 @@ end
 
 school = School.new("Bayside High School")
 school.roster
-school.add_student("Zach Morris", 9)
+
 school.add_student("Moshe Zeus", 9)
 school.add_student("Onkelos Octavius", 9)
 school.roster

@@ -5,3 +5,7 @@ class School
   end 
 end 
 
+def roster
+  @roster
+end 
+

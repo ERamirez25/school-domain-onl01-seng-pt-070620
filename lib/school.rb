@@ -25,8 +25,8 @@ def sort
   roster.each do |x, y|
     nu_hash[x] = y.sort
   end 
-  nu_hash
+ nu_hash
 end 
-end 
+
 
 school = School.new("Bayside High School")

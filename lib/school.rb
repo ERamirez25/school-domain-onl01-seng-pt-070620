@@ -6,9 +6,4 @@ class School
 end
 end 
 
-def add_students(student, level)
-  roster[level] ||= []
-  roster[level] << student
-end 
-
 

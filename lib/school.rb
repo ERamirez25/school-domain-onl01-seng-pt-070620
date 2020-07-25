@@ -7,5 +7,7 @@ class School
   end 
 end 
 
-def 
+def roster
+  roster = {}
+end 
 

@@ -18,11 +18,12 @@ class School
     roster[student_grade]
   end 
   def sort
-    binding.pry
+  
     sorted = {}
     roster.each do |grade, student_array|  
     sorted[grade] = student_array.sort
     end 
+    return sorted
   end 
 end 
 

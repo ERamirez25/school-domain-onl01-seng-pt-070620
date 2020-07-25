@@ -14,4 +14,4 @@ def add_student(name, grade)
   roster[grade] << name
 end 
 end 
-School.new("R").roster.add_student("AC Slater", 10)
+School.new.roster.add_student("AC Slater", 10)

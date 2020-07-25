@@ -8,9 +8,6 @@ class School
     
   end 
 end 
- def add_studenr(name, grade)
-   roster[grade] = []
-   roster[grade] << name 
+ def add_student(name, grade)
+   school.add_student("Zach Morris", 9)
  end 
- end 
-

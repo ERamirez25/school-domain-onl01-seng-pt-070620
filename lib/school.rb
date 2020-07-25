@@ -8,5 +8,9 @@ class School
     
   end 
 end 
-
+ def add_studenr(name, grade)
+   roster[grade] = []
+   roster[grade] << name 
+ end 
+ end 
 

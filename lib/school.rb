@@ -8,6 +8,6 @@ class School
     
   end 
 end 
- def add_student(name, grade)
-   school.add_student("Zach Morris", 9)
+ def add_student(roster, grade)
+   school.add_student("AC Slater", 10)
  end 
